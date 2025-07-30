@@ -1,6 +1,7 @@
 # 🛒 Amazon React E-commerce App
 
-**[🔗 Live Demo]([https://your-demo-link.com](https://amazon-eg-eta.vercel.app/))**
+[🔗 Live Demo](https://amazon-eg-eta.vercel.app)
+
 
 A fully-featured e-commerce application built with **React** and **Redux Toolkit**. Users can browse products, manage their cart and wishlist, register and log in, and view previous orders seamlessly.
 
